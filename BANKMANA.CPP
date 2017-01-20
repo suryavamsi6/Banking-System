@@ -351,8 +351,7 @@ void intro()
      <<"\n\t      s s s       y        s s s       t       e e e     m   m   m   "
      <<"\n\t           s      y             s      t       e         m       m   "
      <<"\n\t      s s s       y        s s s       t       e e e e   m       m   ";
- cout<<"\n\t\t\t\t\t BY,"
-     <<"\n\t\t\t\t\t D.SURYA VAMSI, T.AKASH,S.VISHVESH\n\t\t\t\t\t\t XII-A.";
+
  getch();
 }
 int menu()
